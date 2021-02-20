@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Bitcoin Scraper](https://github.com/fasih4444/btc_scraper.github.io)
 
-- 👨‍💻 All of my projects are available at [https://fasih4444.netlify.app](https://fasih4444.netlify.app)
+- 👨‍💻 All of my projects are available at [https://fasih4444.netlify.app](https://portfolio-fasih4444.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com/@fasih4444_](https://medium.com/@fasih4444_)
 
