@@ -25,8 +25,7 @@
 
 - ⚡ Fun fact **Judge Me Here 👉 bit.ly/heart-miner**
 
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=313ptb25oz24xfiynkalhpq6le7m&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=313ptb25oz24xfiynkalhpq6le7m&cover_image=true&theme=default)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313ptb25oz24xfiynkalhpq6le7m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
