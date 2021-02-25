@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/fasih4444/netflix-clone)
 
+<img src = 'https://i.ibb.co/vYdXYvn/code.gif' alt = 'Awesome Matrix Code' align='right'/>
+
 - 🌱 I’m currently learning **Python, Django, React, JavaScript**
 
 - 👯 I’m looking to collaborate on [Safe link Script Blogger](https://github.com/fasih4444/NihLink-Safelink-Template-Blogger)
