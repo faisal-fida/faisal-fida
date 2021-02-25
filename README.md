@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasih4444&label=Profile%20views&color=0e75b6&style=flat" alt="fasih4444" /> </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fasih4444)](https://www.linkedin.com/in/fasih4444) [![Gmail Badge](https://img.shields.io/badge/-arainfaisal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arainfaisal@gmail.com)](mailto:arainfaisal@gmail.com) <img src="https://komarev.com/ghpvc/?username=fasih4444" alt="fasih4444" /> </p>
+
 <p align="left"> <a href="https://twitter.com/fasih4444" target="blank"><img src="https://img.shields.io/twitter/follow/fasih4444?logo=twitter&style=for-the-badge" alt="fasih4444" /></a> </p>
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/fasih4444/netflix-clone)
