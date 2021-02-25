@@ -6,6 +6,29 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fasih4444)](https://www.linkedin.com/in/fasih4444) [![Gmail Badge](https://img.shields.io/badge/-arainfaisal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arainfaisal@gmail.com)](mailto:arainfaisal@gmail.com) <img src="https://komarev.com/ghpvc/?username=fasih4444" alt="fasih4444" />
 <p align="left"> <a href="https://twitter.com/fasih4444" target="blank"><img src="https://img.shields.io/twitter/follow/fasih4444?logo=twitter&style=for-the-badge" alt="fasih4444" /></a> </p>
 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Faisal Fida'
+	current_edu = "COMSATS University, Islamabad, Wah Campus"
+	hobbies = [
+				'👉 bit.ly/heart-miner',
+				'Watching Anime',
+				'Reading Quran'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCity():
+		return Wah_Cantt_Pakistan()
+	
+	def Ambitions():
+		Attain_Solitude()
+		Known_After_Death()
+		Wanna_Be_In_StrangerThings()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/fasih4444/netflix-clone)
 
 <img src = 'https://i.ibb.co/zGTNXf2/ezgif-7-a33b380edb84.gif' alt = 'Awesome Matrix Code' align='right'/>
