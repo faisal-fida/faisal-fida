@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Faisal Fida</h1>
+<p align="centre"> <img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="fasih4444" /> </p>
+
+<h1 align="center">I'm Faisal Fida</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasih4444&label=Profile%20views&color=0e75b6&style=flat" alt="fasih4444" /> </p>
