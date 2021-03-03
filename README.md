@@ -1,4 +1,4 @@
-<center><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="fasih4444" width="200"></center>
+<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="fasih4444" width="200"></h1>
 
 <h1 align="center">I'm Faisal Fida</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
