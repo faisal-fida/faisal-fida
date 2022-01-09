@@ -34,15 +34,15 @@
  
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS CS. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on NLP Project
-- 🌱 I’m currently learning Java ☕
+- 🔭 I’m currently working on some NLP Projects.
+- 🌱 I’m currently learning Java (But Love Python😅) ☕
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
@@ -51,15 +51,8 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
 - 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 🤔 I’m looking for help with Devops
 - 💬 Ask me about Python, ML, CV, Raspi
-- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
-- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
-
-
-
- 
+- 📙 Ask Google about me [Resume](https://www.google.com/search?q=fasih4444)
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/fasih4444/netflix-clone)
 
@@ -75,13 +68,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 - 📝 I regularly write articles on [https://medium.com/@fasih4444_](https://medium.com/@fasih4444_)
 
-- 💬 Ask me about **Python, JavaScript**
-
-- 📫 How to reach me **arainfaisal826@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/fasih4444](https://www.linkedin.com/in/fasih4444)
-
-- ⚡ Fun fact **Judge Me Here 👉 bit.ly/heart-miner**
+- ⚡ Fun fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬 **& Judge Me Here 👉 bit.ly/heart-miner** 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2b65plbf2bqqh15ep82vi1p23&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=2b65plbf2bqqh15ep82vi1p23&redirect=true)
 
