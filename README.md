@@ -30,6 +30,36 @@
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
+ 
+ 
+
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+
+
+
+
+## ⚡️ A Few Quick Facts
+
+- 🔭 I’m currently working on NLP Project
+- 🌱 I’m currently learning Java ☕
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🖼 Computer Vision
+  - 🛠 DIY Raspberry Pi Projects
+  - 🤖 Robotics
+- 📝 I write technical blogs and articles
+- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
+- 🤔 I’m looking for help with Devops
+- 💬 Ask me about Python, ML, CV, Raspi
+- 📙 Check out my [Resume](https://www.linkedin.com/in/hemanthkollipara/)
+- 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬
+
+
+
+ 
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/fasih4444/netflix-clone)
 
