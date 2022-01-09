@@ -70,7 +70,7 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 
 - ⚡ Fun fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬 **& Judge Me Here 👉 bit.ly/heart-miner** 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2b65plbf2bqqh15ep82vi1p23&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=2b65plbf2bqqh15ep82vi1p23&redirect=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2b65plbf2bqqh15ep82vi1p23&unique={true|1|on|yes})
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
