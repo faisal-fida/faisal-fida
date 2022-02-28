@@ -1,7 +1,8 @@
 <h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="fasih4444" width="500"></h1>
 
 <h1 align="center">I'm Faisal Fida</h1>
-<h3 align="center">A passionate backend developer from Pakistan</h3>
+---
+<h3 align="center">A passionate Backend Developer & Data Scientist from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasih4444&label=Profile%20views&color=0e75b6&style=flat" alt="fasih4444" /> </p>
 
@@ -28,16 +29,14 @@
 		Known_After_Death()
 		Wanna_Be_In_StrangerThings()
 		# Assume 10 more awesome ambitions here  ;)
-	
  ```
+<img src = 'https://i.ibb.co/zGTNXf2/ezgif-7-a33b380edb84.gif' alt = 'Awesome Matrix Code' align='right' /> 
+ ---
  
- 
-
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS CS. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
-
-
+---
 
 ## ⚡️ A Few Quick Facts
 
@@ -45,7 +44,7 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 - 🌱 I’m currently learning Java (But Love Python😅) ☕
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+- I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi Projects
@@ -55,8 +54,6 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 - 📙 Ask Google about me [Resume](https://www.google.com/search?q=fasih4444)
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/fasih4444/netflix-clone)
-
-<img src = 'https://i.ibb.co/zGTNXf2/ezgif-7-a33b380edb84.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 - 🌱 I’m currently learning **Python, Django, React, JavaScript**
 
