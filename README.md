@@ -108,3 +108,67 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 </a>
 
 ---
+
+
+
+
+
+
+
+Say HI 👋🏽 to me on [LinkedIn](https://www.linkedin.com/in/fasih4444/)🤵🏽 and [Instagram](https://www.instagram.com/fasih4444/)🤹🏽‍♀️
+#### intro
+From Pakistan
+18 Years Old
+Google Call me (fasih4444)
+
+I do stuff with python such as letting an AI Model tell you how you feel on the basis of your text input and make cute charts using Pandas Library. Sometimes I even let an AI Model tell you if you are a cat or a human.
+
+#### progress:
+ - [ ] Math
+	 - [x] Linear Algebra & Calculus 
+	 - [ ] Statistics & Probability
+ - [x] Pre-processing
+	 - [x] Data Cleaning
+	 - [x] Data Integration
+	 - [ ] Data Transformation
+	 - [x] Data Reduction
+ - [ ] Model Building & Visualization
+	 - [ ] Exploratory Data Analysis
+	 - [ ] Feature Selection
+	 - [x] Testing 
+	 - [x] Deploying
+ - [x] Machine Learning Algorithms & Github Open Source
+
+
+
+
+
+
+#### education: 
+
+ - [ ] MS(Data science)-2026 
+ - [ ] BS(Computer Science)-2024
+
+I am extremely passionate about working for the corporate/organisation where I can prove myself I am the best. 
+
+#### journey:
+```mermaid
+graph LR
+A(8 Dec - Wuhans) -- Low-cost Websites ---> B(Small Business Owners)
+A -- Learnt Python ---> C(Python, Django & React Js)
+A -- University ---> D(Python, SQL, OOP, DSA & MATH)
+
+B -- Data Analysis ---> E(Data Science)
+B -- Management ---> E
+B -- Deployment ---> E
+C -- Python Cncepts ---> E
+C -- OOP Cncepts ---> E
+D ---> E
+
+```
+And that was the moment, that I fell into the Rabbit Hole and here I am. www.kaggle.com/fasih4444
+
+How to reach me ?
+Linkedin : https://www.linkedin.com/in/fasih4444
+Kaggle : https://www.kaggle.com/fasih4444
+GitHub : https://github.com/fasih4444
