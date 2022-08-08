@@ -1,10 +1,5 @@
-<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="fasih4444" width="500"></h1>
-
-<h1 align="center">I'm Faisal Fida</h1>
----
-<h3 align="center">A passionate Backend Developer & Data Scientist from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fasih4444&label=Profile%20views&color=0e75b6&style=flat" alt="fasih4444" /> </p>
+<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="fasih4444" width="300"></h1>
+<h3 align="center">Passionate Data Scientist - Backend Developer - Islamabad PK</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fasih4444)](https://www.linkedin.com/in/fasih4444) [![Gmail Badge](https://img.shields.io/badge/-arainfaisal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arainfaisal@gmail.com)](mailto:arainfaisal@gmail.com) <img src="https://komarev.com/ghpvc/?username=fasih4444" alt="fasih4444" />
 <p align="left"> <a href="https://twitter.com/fasih4444" target="blank"><img src="https://img.shields.io/twitter/follow/fasih4444?logo=twitter&style=for-the-badge" alt="fasih4444" /></a> </p>
@@ -13,7 +8,7 @@
  ```python
  class WhoAmI:
  	user = 'Faisal Fida'
-	current_edu = "COMSATS University, Islamabad, Wah Campus"
+	current_edu = "BS-CS@COMSATS"
 	hobbies = [
 				'👉 bit.ly/heart-miner',
 				'Watching Anime',
@@ -135,23 +130,9 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasih4444&show_icons=true&locale=en&layout=compact" alt="fasih4444" /></p>
 
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
+### A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
-
----
-
----
-
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
-
----
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2b65plbf2bqqh15ep82vi1p23&unique={true|1|on|yes})
-
----
-
