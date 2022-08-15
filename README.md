@@ -1,10 +1,10 @@
-<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="fasih4444" width="300"></h1>
+<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="faisal-fida" width="300"></h1>
 <h3 align="center">Machine Learning - Backend - DevOps - Islamabad PK</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida)](https://www.linkedin.com/in/faisal-fida) [![Gmail Badge](https://img.shields.io/badge/-arainfaisal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arainfaisal@gmail.com)](mailto:arainfaisal@gmail.com) <img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" />
 <p align="left"> <a href="https://twitter.com/faisalfida_4" target="blank"><img src="https://img.shields.io/twitter/follow/faisal-fida?logo=twitter&style=for-the-badge" alt="faisal-fida" /></a> </p>
 
- ## Who am I?
+ ### who:
  ```python
  class WhoAmI:
  	user = 'Faisal Fida'
@@ -12,7 +12,18 @@
 	hobbies = [
 				'Watching Anime',
 				'Being up all Night chasing that ONE BUG...'
+		  ]
+	
+	def intro():
+		intro = [
+				'I am an Undergrad Student at Comsats pursuing BS CS.' 
+				'I am a Tech Enthusiast 💻 passionate about learning and working with new tech.' 
+				'I love building interesting and amazing products that serve a great deal of purpose.' 
+				'I do stuff with python such as letting an AI Model tell you how you feel on the basis of your text input'
+				'Make cute charts using Pandas Library.' 
+				'Sometimes I even let an AI Model tell you if you are a cat or a human.'
 			]
+		return intro
 	
 	def getCity():
 		return Wah_Cantt_Pakistan()
@@ -23,18 +34,10 @@
 		Wanna_Be_In_StrangerThings()
 		# Assume 10 more awesome ambitions here  ;)
  ```
-<img src = 'https://i.ibb.co/zGTNXf2/ezgif-7-a33b380edb84.gif' alt = 'Awesome Matrix Code' align='right' /> 
- ---
+<img src = 'https://i.ibb.co/zGTNXf2/ezgif-7-a33b380edb84.gif' alt="faisal-fida" align='right'>
 
 
-
-#### intro
-From Pakistan
-18 Years Old
-
-I do stuff with python such as letting an AI Model tell you how you feel on the basis of your text input and make cute charts using Pandas Library. Sometimes I even let an AI Model tell you if you are a cat or a human.
-
-#### progress:
+#### career:
  - [ ] Math
 	 - [x] Linear Algebra & Calculus 
 	 - [ ] Statistics & Probability
@@ -50,18 +53,13 @@ I do stuff with python such as letting an AI Model tell you how you feel on the 
 	 - [x] Deploying
  - [x] Machine Learning Algorithms & Github Open Source
 
-
-
-
-
-
 #### education: 
 
  - [ ] MS(Data science)-2026 
  - [ ] BS(Computer Science)-2024
 
 I am extremely passionate about working for the corporate/organisation where I can prove myself I am the best. 
-
+---
 #### journey:
 ```mermaid
 graph LR
@@ -80,12 +78,12 @@ D ---> E
 And that was the moment, that I fell into the Rabbit Hole and here I am. github.com/faisal-fida 
 
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS CS. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+### about:  
+
 
 ---
 
-## ⚡️ A Few Quick Facts
+### facts:
 
 - 🔭 I’m currently working on some NLP Projects.
 - I enjoy working on
@@ -100,7 +98,8 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 - ⚡ Fun fact: Astrophysics and SpaceX🚀 
 
 
-<h3 align="left">Connect with me:</h3>
+### connect:
+
 <p align="left">
 <a href="https://dev.to/faisalfida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="faisalfida" height="30" width="40" /></a>
 <a href="https://twitter.com/faisalfida_4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faisalfida_4" height="30" width="40" /></a>
@@ -114,7 +113,7 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 
 ---
 
-## My Skill Set  
+### skills:
 <table><tr><td valign="top" width="33%">
 
 ### Machine Learning  
@@ -130,7 +129,7 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 
 
 
-### Backend  
+### backend:  
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -147,7 +146,7 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 
 </div></td><td valign="top" width="33%">
   
-### DevOps  
+### devops:  
 <div align="center">  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
@@ -163,7 +162,7 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=faisal-fida&limit=2)](https://medium.com/@faisal-fida)
 
-### A Famous Fact/Quote:
+### famous fact:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
 • <i>“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   </i>
