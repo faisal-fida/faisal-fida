@@ -1,43 +1,35 @@
-<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="faisal-fida" width="250"></h1>
+<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="faisal-fida" width="300"></h1>
 <h4 align="center">Machine Learning - Backend - DevOps - Islamabad PK</h4>
 
 <div align="center"> <img src="https://img.shields.io/badge/-Faisal Fida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
 <img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" /> </div>
 
- ### who:
  ```python
  class WhoAmI:
  	user = 'Faisal Fida'
 	current_edu = "BS Computer Science @ COMSATS"
-	hobbies = [
-				'Watching Anime',
-				'Being up all Night chasing that ONE BUG...'
-		  ]
+	hobbies = [	
+			'Watching Anime',
+			'Being up all Night chasing that ONE BUG...'
+		     ]
 	
 	def intro():
 		intro = [
-				'I am an Undergrad Student at Comsats pursuing BS CS.' 
-				'I am a Tech Enthusiast 💻 passionate about learning and working with new tech.' 
 				'I love building interesting and amazing products that serve a great deal of purpose.' 
-				'I do stuff with python such as letting an AI Model tell you how you feel on the basis of your text input'
-				'Make cute charts using Pandas Library.' 
+				'I do stuff with python:' 
+				'Letting an AI Model tell you how you feel on the basis of your text input'
+				'Make cute charts using Pandas, Seaborn & Matplotlib.' 
 				'Sometimes I even let an AI Model tell you if you are a cat or a human.'
 			]
 		return intro
 	
 	def getCity():
-		return Wah_Cantt_Pakistan()
-	
-	def Ambitions():
-		Attain_Solitude()
-		Known_After_Death()
-		Wanna_Be_In_StrangerThings()
-		# Assume 10 more awesome ambitions here  ;)
+		return Wah_Cantt_Pakistan();)
  ```
 <img src = 'https://i.ibb.co/zGTNXf2/ezgif-7-a33b380edb84.gif' alt="faisal-fida" align='right'>
 
 
-#### career:
+## career:
  - [ ] Math
 	 - [x] Linear Algebra & Calculus 
 	 - [ ] Statistics & Probability
@@ -53,17 +45,17 @@
 	 - [x] Deploying
  - [x] Machine Learning Algorithms & Github Open Source
 
-#### education: 
+## education: 
 
  - [ ] MS(Data science)-2026 
  - [ ] BS(Computer Science)-2024
 
-### I am extremely passionate about working for the corporate/organisation where I can prove myself I am the best. 
 ---
 
+<p align = "center">I am extremely passionate about working for the corporate/organisation where I can prove myself I am the best. </p>
 
 
-### skills:
+## skills:
 <table><tr><td valign="top" width="33%">
 
 ### Machine Learning  
@@ -109,7 +101,7 @@
 
 ---
 
-#### journey:
+## journey:
 ```mermaid
 graph LR
 A(8 Dec - Wuhans) -- Low-cost Websites ---> B(Small Business Owners)
@@ -124,26 +116,28 @@ C -- OOP Cncepts ---> E
 D ---> E
 
 ```
-### And that was the moment, that I fell into the Rabbit Hole and here I am. github.com/faisal-fida 
+<p align = "center"> And that was the moment, that I fell into the Rabbit Hole and here I am. github.com/faisal-fida </p>
 
-### facts:
+
+## facts:
 
 - 🔭 I’m currently working on NLP Projects.
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
+  - Machine Learning & Data Science
+  - Computer Vision
+  - DIY Raspberry Pi Projects
+  - Robotics
 - 📝 I regularly write articles on [https://medium.com/@faisal-fida](https://medium.com/@faisal-fida)
 - ⚡ Fun fact: Astrophysics and SpaceX🚀 
 
+---
 
-### 📫 connect:
+# 📫 connect:
 <p align = "center">
  
 <!-- [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://user.github.io/) -->
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/faisal-fida/) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@faisal-fida)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/faisal-fida.4/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/faisalfida.4/)
 <a href="https://github.com/faisal-fida" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=blue" /></a>
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/faisal-fida.4) 
 
