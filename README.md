@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="faisal-fida" width="300"></h1>
-<h3 align="center">Machine Learning - Backend - DevOps - Islamabad PK</h3>
+<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="faisal-fida" width="250"></h1>
+<h4 align="center">Machine Learning - Backend - DevOps - Islamabad PK</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida)](https://www.linkedin.com/in/faisal-fida) [![Gmail Badge](https://img.shields.io/badge/-arainfaisal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arainfaisal@gmail.com)](mailto:arainfaisal@gmail.com) <img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" />
-<p align="left"> <a href="https://twitter.com/faisalfida_4" target="blank"><img src="https://img.shields.io/twitter/follow/faisal-fida?logo=twitter&style=for-the-badge" alt="faisal-fida" /></a> </p>
+<div align="center"> <img src="https://img.shields.io/badge/-Faisal Fida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
+<img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" /> </div>
 
  ### who:
  ```python
@@ -58,60 +58,10 @@
  - [ ] MS(Data science)-2026 
  - [ ] BS(Computer Science)-2024
 
-I am extremely passionate about working for the corporate/organisation where I can prove myself I am the best. 
----
-#### journey:
-```mermaid
-graph LR
-A(8 Dec - Wuhans) -- Low-cost Websites ---> B(Small Business Owners)
-A -- Learnt Python ---> C(Python, Django & React Js)
-A -- University ---> D(Python, SQL, OOP, DSA & MATH)
-
-B -- Data Analysis ---> E(Data Science)
-B -- Management ---> E
-B -- Deployment ---> E
-C -- Python Cncepts ---> E
-C -- OOP Cncepts ---> E
-D ---> E
-
-```
-And that was the moment, that I fell into the Rabbit Hole and here I am. github.com/faisal-fida 
-
-
-### about:  
-
-
+### I am extremely passionate about working for the corporate/organisation where I can prove myself I am the best. 
 ---
 
-### facts:
 
-- 🔭 I’m currently working on some NLP Projects.
-- I enjoy working on
-  - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
-  - 🛠 DIY Raspberry Pi Projects
-  - 🤖 Robotics
-- 💬 Ask me about Python, ML, CV, Raspi
-
-- 📝 I regularly write articles on [https://medium.com/@faisal-fida](https://medium.com/@faisal-fida)
-
-- ⚡ Fun fact: Astrophysics and SpaceX🚀 
-
-
-### connect:
-
-<p align="left">
-<a href="https://dev.to/faisalfida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="faisalfida" height="30" width="40" /></a>
-<a href="https://twitter.com/faisalfida_4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faisalfida_4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faisal-fida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="faisal-fida" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18847645" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="18847645" height="30" width="40" /></a>
-<a href="https://kaggle.com/technicalbabaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="faisal-fida" height="30" width="40" /></a>
-<a href="https://fb.com/faisalfida.4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="faisalfida.4" height="30" width="40" /></a>
-<a href="https://instagram.com/faisalfida.4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="faisalfida.4" height="30" width="40" /></a>
-<a href="https://medium.com/@faisal-fida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@faisal-fida" height="30" width="40" /></a>
-</p>
-
----
 
 ### skills:
 <table><tr><td valign="top" width="33%">
@@ -159,8 +109,48 @@ And that was the moment, that I fell into the Rabbit Hole and here I am. github.
 
 ---
 
+#### journey:
+```mermaid
+graph LR
+A(8 Dec - Wuhans) -- Low-cost Websites ---> B(Small Business Owners)
+A -- Learnt Python ---> C(Python, Django & React Js)
+A -- University ---> D(Python, SQL, OOP, DSA & MATH)
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=faisal-fida&limit=2)](https://medium.com/@faisal-fida)
+B -- Data Analysis ---> E(Data Science)
+B -- Management ---> E
+B -- Deployment ---> E
+C -- Python Cncepts ---> E
+C -- OOP Cncepts ---> E
+D ---> E
+
+```
+### And that was the moment, that I fell into the Rabbit Hole and here I am. github.com/faisal-fida 
+
+### facts:
+
+- 🔭 I’m currently working on NLP Projects.
+  - 📊 Machine Learning & Data Science
+  - 🖼 Computer Vision
+  - 🛠 DIY Raspberry Pi Projects
+  - 🤖 Robotics
+- 📝 I regularly write articles on [https://medium.com/@faisal-fida](https://medium.com/@faisal-fida)
+- ⚡ Fun fact: Astrophysics and SpaceX🚀 
+
+
+### connect:
+
+<p align="left">
+<a href="https://dev.to/faisalfida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="faisalfida" height="30" width="40" /></a>
+<a href="https://twitter.com/faisalfida_4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faisalfida_4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faisal-fida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="faisal-fida" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18847645" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="18847645" height="30" width="40" /></a>
+<a href="https://kaggle.com/technicalbabaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="faisal-fida" height="30" width="40" /></a>
+<a href="https://fb.com/faisalfida.4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="faisalfida.4" height="30" width="40" /></a>
+<a href="https://instagram.com/faisalfida.4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="faisalfida.4" height="30" width="40" /></a>
+<a href="https://medium.com/@faisal-fida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@faisal-fida" height="30" width="40" /></a>
+</p>
+
+---
 
 ### famous fact:
 <a href="https://github.com/marketplace/actions/quote-readme">
