@@ -1,8 +1,8 @@
 <h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="fasih4444" width="300"></h1>
 <h3 align="center">Machine Learning - Backend - DevOps - Islamabad PK</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fasih4444)](https://www.linkedin.com/in/fasih4444) [![Gmail Badge](https://img.shields.io/badge/-arainfaisal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arainfaisal@gmail.com)](mailto:arainfaisal@gmail.com) <img src="https://komarev.com/ghpvc/?username=fasih4444" alt="fasih4444" />
-<p align="left"> <a href="https://twitter.com/fasih4444" target="blank"><img src="https://img.shields.io/twitter/follow/fasih4444?logo=twitter&style=for-the-badge" alt="fasih4444" /></a> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-Faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida)](https://www.linkedin.com/in/faisal-fida) [![Gmail Badge](https://img.shields.io/badge/-arainfaisal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arainfaisal@gmail.com)](mailto:arainfaisal@gmail.com) <img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" />
+<p align="left"> <a href="https://twitter.com/faisalfida_4" target="blank"><img src="https://img.shields.io/twitter/follow/faisal-fida?logo=twitter&style=for-the-badge" alt="faisal-fida" /></a> </p>
 
  ## Who am I?
  ```python
@@ -31,7 +31,6 @@
 #### intro
 From Pakistan
 18 Years Old
-Google Call me (fasih4444)
 
 I do stuff with python such as letting an AI Model tell you how you feel on the basis of your text input and make cute charts using Pandas Library. Sometimes I even let an AI Model tell you if you are a cat or a human.
 
@@ -78,7 +77,7 @@ C -- OOP Cncepts ---> E
 D ---> E
 
 ```
-And that was the moment, that I fell into the Rabbit Hole and here I am. www.github.com/fasih4444 
+And that was the moment, that I fell into the Rabbit Hole and here I am. github.com/faisal-fida 
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
@@ -89,33 +88,28 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on some NLP Projects.
-- 🌱 I’m currently learning Java (But Love Python😅) ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-
 - I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
-- 📝 I write technical blogs and articles
 - 💬 Ask me about Python, ML, CV, Raspi
 
-- 📝 I regularly write articles on [https://medium.com/@fasih4444_](https://medium.com/@fasih4444_)
+- 📝 I regularly write articles on [https://medium.com/@faisal-fida](https://medium.com/@faisal-fida)
 
 - ⚡ Fun fact: Astrophysics and SpaceX🚀 
--  👉 Watch a lot Sci-Fi Movies & bit.ly/heart-miner
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/fasih4444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fasih4444" height="30" width="40" /></a>
-<a href="https://twitter.com/fasih4444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fasih4444" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fasih4444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fasih4444" height="30" width="40" /></a>
+<a href="https://dev.to/faisalfida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="faisalfida" height="30" width="40" /></a>
+<a href="https://twitter.com/faisalfida_4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faisalfida_4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faisal-fida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="faisal-fida" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18847645" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="18847645" height="30" width="40" /></a>
-<a href="https://kaggle.com/fasih4444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="fasih4444" height="30" width="40" /></a>
-<a href="https://fb.com/fasih4444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fasih4444" height="30" width="40" /></a>
-<a href="https://instagram.com/fasih4444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fasih4444" height="30" width="40" /></a>
-<a href="https://medium.com/@fasih4444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fasih4444" height="30" width="40" /></a>
+<a href="https://kaggle.com/technicalbabaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="faisal-fida" height="30" width="40" /></a>
+<a href="https://fb.com/faisalfida.4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="faisalfida.4" height="30" width="40" /></a>
+<a href="https://instagram.com/faisalfida.4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="faisalfida.4" height="30" width="40" /></a>
+<a href="https://medium.com/@faisal-fida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@faisal-fida" height="30" width="40" /></a>
 </p>
 
 ---
@@ -166,9 +160,8 @@ I'm an **Undergrad Student🎓 [@Comsats](https://cuiwah.edu.pk)** pursuing BS C
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasih4444&show_icons=true&locale=en&layout=compact" alt="fasih4444" /></p>
 
-<div align="center"> [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=fasih4444_&limit=4)](https://medium.com/@fasih4444_)</div>
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=faisal-fida&limit=2)](https://medium.com/@faisal-fida)
 
 ### A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
