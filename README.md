@@ -137,17 +137,16 @@ D ---> E
 - ⚡ Fun fact: Astrophysics and SpaceX🚀 
 
 
-### connect:
+### 📫 connect:
+<p align = "center">
+ 
+<!-- [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://user.github.io/) -->
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/faisal-fida/) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@faisal-fida)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/faisal-fida.4/)
+<a href="https://github.com/faisal-fida" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=blue" /></a>
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/faisal-fida.4) 
 
-<p align="left">
-<a href="https://dev.to/faisalfida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="faisalfida" height="30" width="40" /></a>
-<a href="https://twitter.com/faisalfida_4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faisalfida_4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faisal-fida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="faisal-fida" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18847645" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="18847645" height="30" width="40" /></a>
-<a href="https://kaggle.com/technicalbabaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="faisal-fida" height="30" width="40" /></a>
-<a href="https://fb.com/faisalfida.4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="faisalfida.4" height="30" width="40" /></a>
-<a href="https://instagram.com/faisalfida.4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="faisalfida.4" height="30" width="40" /></a>
-<a href="https://medium.com/@faisal-fida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@faisal-fida" height="30" width="40" /></a>
 </p>
 
 ---
