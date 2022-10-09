@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="faisal-fida" width="300"></h1>
+[](<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="faisal-fida" width="300"></h1>)
+
 <h4 align="center">Machine Learning - Backend - DevOps - Islamabad PK</h4>
 
 <div align="center"> <img src="https://img.shields.io/badge/-Faisal Fida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
