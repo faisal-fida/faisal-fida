@@ -1,9 +1,8 @@
-[](<h1 align="center"><img src="https://i.ibb.co/KFsVwTN/greetings.gif" alt="faisal-fida" width="300"></h1>)
+<h4 align="center">Data Scientist - Data Analyst - Machine Learning Engineer - Islamabad PK</h4>
 
-<h4 align="center">Machine Learning - Backend - DevOps - Islamabad PK</h4>
-
-<div align="center"> <img src="https://img.shields.io/badge/-Faisal Fida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
-<img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" /> </div>
+<div align="center"> <img src="https://img.shields.io/badge/-Faisal Fida-aa56r4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
+<img src="https://komarev.com/ghpvc/?username=faisal-fida&color=green" alt="faisal-fida" /> </div>
+<br>
 
  ```python
  class WhoAmI:
@@ -27,10 +26,10 @@
 	def getCity():
 		return Wah_Cantt_Pakistan();)
  ```
+
 <img src = 'https://i.ibb.co/zGTNXf2/ezgif-7-a33b380edb84.gif' alt="faisal-fida" align='right'>
 
-
-## career:
+### career:
  - [ ] Math
 	 - [x] Linear Algebra & Calculus 
 	 - [ ] Statistics & Probability
@@ -40,20 +39,19 @@
 	 - [ ] Data Transformation
 	 - [x] Data Reduction
  - [ ] Model Building & Visualization
-	 - [ ] Exploratory Data Analysis
+	 - [x] Exploratory Data Analysis
 	 - [ ] Feature Selection
 	 - [x] Testing 
 	 - [x] Deploying
  - [x] Machine Learning Algorithms & Github Open Source
 
-## education: 
-
+### education: 
  - [ ] MS(Data science)-2026 
  - [ ] BS(Computer Science)-2024
 
 ---
 
-<p align = "center">I am extremely passionate about working for the corporate/organisation where I can prove myself I am the best. </p>
+<p align = "center">"I am extremely passionate about working for the corporate/organisation where I can prove myself I am the best." - Faisal Fida</p>
 
 
 ## skills:
@@ -117,7 +115,7 @@ C -- OOP Cncepts ---> E
 D ---> E
 
 ```
-<p align = "center"> And that was the moment, that I fell into the Rabbit Hole and here I am. github.com/faisal-fida </p>
+<p align = "center">"And that was the moment, that I fell into the Rabbit Hole and here I am: github.com/faisal-fida" - Faisal Fida</p>
 
 
 ## facts:
