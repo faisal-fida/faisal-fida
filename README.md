@@ -1,7 +1,7 @@
 <h4 align="center">Data Scientist - Data Analyst - Machine Learning Engineer - Islamabad PK</h4>
 
-<div align="center"> <img src="https://img.shields.io/badge/-Faisal Fida-aa56r4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
-<img src="https://komarev.com/ghpvc/?username=faisal-fida&color=green" alt="faisal-fida" /> </div>
+<div align="center"> <img src="https://img.shields.io/badge/-Faisal Fida-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
+<img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" /> </div>
 <br>
 
  ```python
