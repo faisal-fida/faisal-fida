@@ -29,21 +29,6 @@
 
 <img src = 'https://i.ibb.co/zGTNXf2/ezgif-7-a33b380edb84.gif' alt="faisal-fida" align='right'>
 
-### career:
- - [ ] Math
-	 - [x] Linear Algebra & Calculus 
-	 - [ ] Statistics & Probability
- - [x] Pre-processing
-	 - [x] Data Cleaning
-	 - [x] Data Integration
-	 - [ ] Data Transformation
-	 - [x] Data Reduction
- - [ ] Model Building & Visualization
-	 - [x] Exploratory Data Analysis
-	 - [ ] Feature Selection
-	 - [x] Testing 
-	 - [x] Deploying
- - [x] Machine Learning Algorithms & Github Open Source
 
 ### education: 
  - [ ] MS(Data science)-2026 
@@ -60,7 +45,6 @@
 ### Machine Learning  
 <div align="center">  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -72,7 +56,6 @@
 
 ### backend:  
 <div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
