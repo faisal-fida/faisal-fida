@@ -1,30 +1,31 @@
-<h4 align="center">Data Scientist - Data Analyst - Machine Learning Engineer - Islamabad PK</h4>
+<h4 align="center">Data Scientist - Backend Developer - Islamabad PK</h4>
 
-<div align="center"> <img src="https://img.shields.io/badge/-Faisal Fida-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
-<img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" /> </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Faisal Fida-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
+  <img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" />
+</div>
 <br>
 
- ```python
- class WhoAmI:
- 	user = 'Faisal Fida'
+```python
+class WhoAmI:
+	user = 'Faisal Fida'
 	current_edu = "BS Computer Science @ COMSATS"
-	hobbies = [	
-			'Watching Anime',
-			'Being up all Night chasing that ONE BUG...'
-		     ]
-	
+	hobbies = [
+		'Watching Anime',
+		'Being up all Night chasing that ONE BUG...'
+	]
+
 	def intro():
 		intro = [
-				'I love building interesting and amazing products that serve a great deal of purpose.' 
-				'I do stuff with python:' 
-				'Letting an AI Model tell you how you feel on the basis of your text input'
-				'Make cute charts using Pandas, Seaborn & Matplotlib.' 
-				'Sometimes I even let an AI Model tell you if you are a cat or a human.'
-			]
+			'I have over 3 years of experience in Data Science and Backend Development.',
+			'I specialize in building cutting-edge data-driven solutions and robust backend systems.',
+			'In my free time, you might find me watching anime or diving deep into debugging to solve complex issues.'
+		]
 		return intro
-	
+
 	def getCity():
-		return Wah_Cantt_Pakistan();)
+		return 'Islamabad, Pakistan'
+
  ```
 
 <img src = 'https://i.ibb.co/zGTNXf2/ezgif-7-a33b380edb84.gif' alt="faisal-fida" align='right'>
@@ -34,11 +35,6 @@
  - [ ] MS(Data science)-2026 
  - [ ] BS(Computer Science)-2024
 
----
-
-
-## skills:
-<table><tr><td valign="top" width="33%">
 
 ### Machine Learning  
 <div align="center">  
