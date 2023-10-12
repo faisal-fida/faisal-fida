@@ -18,8 +18,9 @@ class WhoAmI:
 	def intro():
 		intro = [
 			'I have over 3 years of experience in Data Science and Backend Development.',
-			'I specialize in building cutting-edge data-driven solutions and robust backend systems.',
-			'In my free time, you might find me watching anime or diving deep into debugging to solve complex issues.'
+			'I specialize in building cutting-edge data-driven solutions',
+			'I specialized in and robust backend systems.',
+			'In my free time, you might find me watching anime.'
 		]
 		return intro
 
