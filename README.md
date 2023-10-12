@@ -5,10 +5,6 @@
 </div>
 <br>
 
-<h4 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true" alt="GitHub Streak" /></a></h4>
-
-
-
 ```python
 class WhoAmI:
 	user = 'Faisal Fida'
@@ -30,6 +26,10 @@ class WhoAmI:
 	def getCity():
 		return 'Islamabad, Pakistan'
  ```
+
+
+<h4 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true" alt="GitHub Streak" /></a></h4>
+
 
 ---
 
