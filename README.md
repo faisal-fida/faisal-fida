@@ -28,13 +28,8 @@ class WhoAmI:
 		return 'Islamabad, Pakistan'
 
  ```
-
 <img src = 'https://i.ibb.co/zGTNXf2/ezgif-7-a33b380edb84.gif' alt="faisal-fida" align='right'>
-
-
-### education: 
- - [ ] MS(Data science)-2026 
- - [ ] BS(Computer Science)-2024
+ ```
 
 
 ### Machine Learning  
