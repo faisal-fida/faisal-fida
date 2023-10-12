@@ -1,12 +1,13 @@
 <h4 align="center">Data Scientist - Backend Developer - Islamabad PK</h4>
-
-<h4 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true" alt="GitHub Streak" /></a></h4>
-
 <div align="center">
   <img src="https://img.shields.io/badge/-Faisal Fida-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
   <img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" />
 </div>
 <br>
+
+<h4 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true" alt="GitHub Streak" /></a></h4>
+
+
 
 ```python
 class WhoAmI:
