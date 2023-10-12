@@ -36,8 +36,6 @@
 
 ---
 
-<p align = "center">"I am extremely passionate about working for the corporate/organisation where I can prove myself I am the best." - Faisal Fida</p>
-
 
 ## skills:
 <table><tr><td valign="top" width="33%">
@@ -83,35 +81,7 @@
 
 ---
 
-## journey:
-```mermaid
-graph LR
-A(8 Dec - Wuhans) -- Low-cost Websites ---> B(Small Business Owners)
-A -- Learnt Python ---> C(Python, Django & React Js)
-A -- University ---> D(Python, SQL, OOP, DSA & MATH)
 
-B -- Data Analysis ---> E(Data Science)
-B -- Management ---> E
-B -- Deployment ---> E
-C -- Python Cncepts ---> E
-C -- OOP Cncepts ---> E
-D ---> E
-
-```
-<p align = "center">"And that was the moment, that I fell into the Rabbit Hole and here I am: github.com/faisal-fida" - Faisal Fida</p>
-
-
-## facts:
-
-- 🔭 I’m currently working on NLP Projects.
-  - Machine Learning & Data Science
-  - Computer Vision
-  - DIY Raspberry Pi Projects
-  - Robotics
-- 📝 I regularly write articles on [https://medium.com/@faisal-fida](https://medium.com/@faisal-fida)
-- ⚡ Fun fact: Astrophysics and SpaceX🚀 
-
----
 
 # 📫 connect:
 <p align = "center">
