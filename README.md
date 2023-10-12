@@ -3,7 +3,9 @@
   <img src="https://img.shields.io/badge/-Faisal Fida-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
   <img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" />
 </div>
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true" alt="GitHub Streak" /></a></div>
+<br>
+
+<h4 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true" alt="GitHub Streak" /></a></h4>
 
 
 
@@ -30,6 +32,7 @@ class WhoAmI:
  ```
 
 ---
+---
 
 ### Machine Learning  
 <div align="center">  
@@ -38,10 +41,6 @@ class WhoAmI:
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
   </div>
-  
-</div></td><td valign="top" width="33%">
-
----
 
 ### backend:  
 <div align="center">  
@@ -55,9 +54,6 @@ class WhoAmI:
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>  
----
-
-</div></td><td valign="top" width="33%">
   
 ### devops:  
 <div align="center">  
@@ -67,9 +63,8 @@ class WhoAmI:
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-</div></td></tr></table> 
 
-
+---
 ---
 
 
