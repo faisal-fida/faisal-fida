@@ -1,5 +1,5 @@
 <h4 align="center">Data Scientist - Backend Developer - Islamabad PK</h4>
- <img src = 'https://i.ibb.co/zGTNXf2/ezgif-7-a33b380edb84.gif' alt="faisal-fida" align='center'>
+[![GitHub Streak](https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Faisal Fida-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
