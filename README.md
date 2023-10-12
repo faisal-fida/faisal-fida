@@ -3,9 +3,7 @@
   <img src="https://img.shields.io/badge/-Faisal Fida-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faisal-fida" alt="faisal-fida" />
   <img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="faisal-fida" />
 </div>
-<br>
-
-<h4 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true" alt="GitHub Streak" /></a></h4>
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true" alt="GitHub Streak" /></a></div>
 
 
 
@@ -31,6 +29,8 @@ class WhoAmI:
 		return 'Islamabad, Pakistan'
  ```
 
+---
+
 ### Machine Learning  
 <div align="center">  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
@@ -41,7 +41,7 @@ class WhoAmI:
   
 </div></td><td valign="top" width="33%">
 
-
+---
 
 ### backend:  
 <div align="center">  
@@ -55,7 +55,7 @@ class WhoAmI:
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>  
-
+---
 
 </div></td><td valign="top" width="33%">
   
