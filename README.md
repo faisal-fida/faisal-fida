@@ -11,7 +11,7 @@
 ### Machine Learning
 
 <div align="center">  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a> 
+<p>TensorFlow</p>
 <a href="https://keras.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" width="40" height="40"/></a> 
 <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" height="40"/></a>  
   </div>
@@ -54,11 +54,3 @@
 </p>
 
 ---
-
-### famous fact:
-
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   </i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
