@@ -9,24 +9,24 @@
 <h4 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true" alt="GitHub Streak" /></a></h4>
 
 ## Python:
-- **Skills:** Object-oriented programming, Web development (Django, Flask), Data manipulation and analysis (NumPy, Pandas), Multithreading and multiprocessing, Unit testing
-- **Tools:** PyCharm, Jupyter Notebooks, Git, Docker, pytest
+- **Skills:** Web development, Data manipulation and analysis, Multithreading and multiprocessing, Unit testing
+- **Tools:** Django, FastApi, Git, Docker, pytest, NumPy, Pandas
 
 ## Backend:
-- **Skills:** Server-side programming, RESTful API development, Database design and management, Microservices architecture, Cloud services (AWS, Azure, Google Cloud)
-- **Tools:** Django, Flask, PostgreSQL, Redis, Kubernetes
+- **Skills:** RESTful API, Microservices
+- **Tools:** Django, FastApi, PostgreSQL, Redis, Kubernetes
 
 ## Machine Learning:
-- **Skills:** Data preprocessing, Model selection and evaluation, Deep learning frameworks (TensorFlow, PyTorch), Natural Language Processing (NLP), Model deployment
-- **Tools:** TensorFlow, PyTorch, Scikit-learn, Flask (for model deployment), DVC (Data Version Control)
+- **Skills:** Data preprocessing, Model selection and evaluation, Deep learning, NLP, Model deployment
+- **Tools:** TensorFlow, Scikit-learn, FastApi 
 
 ## Data Engineering:
 - **Skills:** ETL processes, Data warehousing, Data modeling, SQL and NoSQL databases, Real-time data processing
-- **Tools:** Apache Spark, Apache Airflow, SQL databases (e.g., MySQL, PostgreSQL), Talend, Snowflake
+- **Tools:** Apache Spark, Apache Airflow, PostgreSQL
 
 ## DevOps:
-- **Skills:** Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code (IaC), Containerization (Docker), Cloud platforms (AWS, Azure, Google Cloud), Security best practices
-- **Tools:** Jenkins, GitLab CI/CD, Terraform, Kubernetes, Docker
+- **Skills:** CI/CD, Containerization, Cloud platforms ()
+- **Tools:** Jenkins, GitLab CI/CD, Terraform, Kubernetes, Docker, AWS, Google Cloud
 
 
 ---
