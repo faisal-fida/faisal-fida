@@ -7,37 +7,130 @@
 
 
 <h4 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true" alt="GitHub Streak" /></a></h4>
+---
+## Python:
+- **Skills:**
+  1. Object-oriented programming
+  2. Web development (Django, Flask)
+  3. Data manipulation and analysis (NumPy, Pandas)
+  4. Multithreading and multiprocessing
+  5. Unit testing
+  6. Debugging and profiling
+  7. Regular expressions
+  8. Exception handling
+  9. Pythonic coding practices
+  10. Knowledge of Python frameworks and libraries
 
-### Machine Learning
+- **Tools:**
+  1. PyCharm
+  2. Jupyter Notebooks
+  3. VSCode
+  4. Git
+  5. Docker
+  6. Virtualenv
+  7. pip (package manager)
+  8. pytest
+  9. PyLint
+  10. Black (code formatter)
 
-<div align="center">  
-<p>TensorFlow</p>
-<a href="https://keras.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" width="40" height="40"/></a> 
-<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40" height="40"/></a>  
-  </div>
+## Backend:
+- **Skills:**
+  1. Server-side programming
+  2. RESTful API development
+  3. Database design and management
+  4. Authentication and authorization
+  5. Caching strategies
+  6. Web security best practices
+  7. Scalability and performance optimization
+  8. Microservices architecture
+  9. Version control (Git)
+  10. Cloud services (AWS, Azure, Google Cloud)
 
-### Backend
+- **Tools:**
+  1. Django
+  2. Flask
+  3. Node.js
+  4. Express.js
+  5. PostgreSQL
+  6. MongoDB
+  7. Redis
+  8. Nginx
+  9. Apache
+  10. Kubernetes
 
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></a>  
-</div>  
+## Machine Learning:
+- **Skills:**
+  1. Data preprocessing
+  2. Feature engineering
+  3. Model selection and evaluation
+  4. Deep learning frameworks (TensorFlow, PyTorch)
+  5. Transfer learning
+  6. Hyperparameter tuning
+  7. Model deployment
+  8. Natural Language Processing (NLP)
+  9. Computer Vision
+  10. Reinforcement learning
+
+- **Tools:**
+  1. TensorFlow
+  2. PyTorch
+  3. Scikit-learn
+  4. Jupyter Notebooks
+  5. Keras
+  6. Pandas
+  7. Matplotlib
+  8. Flask (for model deployment)
+  9. TensorBoard
+  10. DVC (Data Version Control)
+
+## Data Engineering:
+- **Skills:**
+  1. ETL (Extract, Transform, Load) processes
+  2. Data warehousing
+  3. Data modeling
+  4. SQL and NoSQL databases
+  5. Data pipeline orchestration
+  6. Big Data technologies (Hadoop, Spark)
+  7. Data governance
+  8. Data quality assurance
+  9. Cloud data services (AWS Glue, Google BigQuery)
+  10. Real-time data processing
+
+- **Tools:**
+  1. Apache Spark
+  2. Apache Airflow
+  3. Apache Kafka
+  4. Hadoop
+  5. SQL databases (e.g., MySQL, PostgreSQL)
+  6. NoSQL databases (e.g., MongoDB, Cassandra)
+  7. Talend
+  8. AWS Glue
+  9. Google BigQuery
+  10. Snowflake
+
+## DevOps:
+- **Skills:**
+  1. Continuous Integration/Continuous Deployment (CI/CD)
+  2. Infrastructure as Code (IaC)
+  3. Containerization (Docker)
+  4. Orchestration tools (Kubernetes)
+  5. Monitoring and logging
+  6. Automation scripting (Bash, Python)
+  7. Cloud platforms (AWS, Azure, Google Cloud)
+  8. Version control (Git)
+  9. Security best practices
+  10. Collaboration and communication
+
+- **Tools:**
+  1. Jenkins
+  2. GitLab CI/CD
+  3. Travis CI
+  4. Ansible
+  5. Terraform
+  6. Docker
+  7. Kubernetes
+  8. Prometheus
   
-### DevOps  
-<div align="center">  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="40" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-</div>
 
 ---
 
