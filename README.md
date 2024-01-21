@@ -5,27 +5,6 @@
 </div>
 <br>
 
-```python
-class WhoAmI:
-	user = 'Faisal Fida'
-	current_edu = "BS Computer Science @ COMSATS"
-	hobbies = [
-		'Watching Anime',
-		'Being up all Night chasing that ONE BUG...'
-	]
-
-	def intro():
-		intro = [
-			'I have over 3 years of experience in Data Science and Backend Development.',
-			'I specialize in building cutting-edge data-driven solutions',
-			'I specialized in and robust backend systems.',
-			'In my free time, you might find me watching anime.'
-		]
-		return intro
-
-	def getCity():
-		return 'Islamabad, Pakistan'
-```
 
 <h4 align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faisal-fida&theme=dark&hide_border=true" alt="GitHub Streak" /></a></h4>
 
