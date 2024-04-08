@@ -6,7 +6,8 @@
 </div>
 
 
-## Skills
+# Skills
+
 ---
 #### Python Development:
 - Backend development,
