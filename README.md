@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="Profile Views" />
 </div>
 
-
-# Skills
-
 ---
 #### Python Development:
 - Backend development,
