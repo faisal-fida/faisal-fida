@@ -27,7 +27,7 @@
 - IDEs: VS Code, Jupyter Notebook,
 - Code Quality: [ruff](https://github.com/astral-sh/ruff),
 - Deployment: Docker, AWS Lambda
-
+---
 #### Machine Learning:
 - Data preprocessing,
 - Feature engineering,
@@ -40,7 +40,7 @@
 - Libraries: TensorFlow, Keras, Scikit-learn,
 - Deployment: TensorFlow Serving, 
 - Visualization: Matplotlib, Seaborn, Plotly,
-
+---
 #### Backend Development:
 - RESTful API design and implementation,
 - Microservices architecture,
@@ -56,7 +56,7 @@
 - Search Engines: Elasticsearch, [typesense](https://github.com/typesense/typesense),
 - Load Balancers: Nginx,
 - Monitoring: Grafana
-
+---
 #### DevOps:
 - Continuous Integration (CI) and Continuous Deployment (CD),
 - Monitoring and alerting,
@@ -67,7 +67,7 @@
 - Containerization: Docker,
 - Cloud Platforms: AWS, Google Cloud Platform,
 - Monitoring: Grafana,
-
+---
 #### Web Scraping:
 - Understanding of HTML/CSS structure,
 - Web crawling and spidering,
@@ -82,7 +82,7 @@
 - Data Extraction: XPath, CSS selectors,
 - Proxy Rotation: Bright Data, IPRoyal,
 - CAPTCHA Solving: 2Captcha,
-- 
+---
 ## Connect
 
 <p align="center">
