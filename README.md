@@ -7,7 +7,7 @@
 
 
 ## Skills
-
+---
 #### Python Development:
 - Backend development,
 - Data manipulation and analysis,
