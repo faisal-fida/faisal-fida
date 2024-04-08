@@ -8,26 +8,81 @@
 
 ## Skills
 
-#### Python:
-- Web development, Data manipulation and analysis, Multithreading and multiprocessing, Unit testing
-- Tools: Django, FastApi, Git, Docker, pytest, NumPy, Pandas
+#### Python Development:
+- Backend development,
+- Data manipulation and analysis,
+- Multithreading and multiprocessing,
+- Unit testing,
+- Asynchronous programming,
+- Web scraping,
+- Web automation,
 
-#### Backend:
-- RESTful API, Microservices
-- Tools: Django, FastApi, PostgreSQL, Redis, Kubernetes
+**Tools:**
+- Frameworks: Django, FastAPI,
+- Libraries: NumPy, Pandas, BeautifulSoup, Scrapy, Requests,
+- Version Control: Git, GitHub,
+- Virtual Environments: virtualenv, conda, [poetry](https://github.com/python-poetry/poetry)
+- Testing: pytest,
+- Documentation: [MkDocs](https://github.com/squidfunk/mkdocs-material),
+- IDEs: VS Code, Jupyter Notebook,
+- Code Quality: [ruff](https://github.com/astral-sh/ruff),
+- Deployment: Docker, AWS Lambda
 
 #### Machine Learning:
-- Data preprocessing, Model selection and evaluation, Deep learning, NLP, Model deployment
-- Tools: TensorFlow, Scikit-learn, FastApi 
+- Data preprocessing,
+- Feature engineering,
+- Model selection and evaluation,
+- Time series analysis,
+- Reinforcement learning,
+- Model deployment and serving,
 
-#### Data Engineering:
-- ETL processes, Data warehousing, Data modeling, SQL and NoSQL databases, Real-time data processing
-- Tools: Apache Spark, Apache Airflow, PostgreSQL
+**Tools:**
+- Libraries: TensorFlow, Keras, Scikit-learn,
+- Deployment: TensorFlow Serving, 
+- Visualization: Matplotlib, Seaborn, Plotly,
+
+#### Backend Development:
+- RESTful API design and implementation,
+- Microservices architecture,
+- Authentication and authorization,
+- Caching strategies,
+- WebSockets,
+- GraphQL,
+
+**Tools:**
+- Frameworks: Django, FastAPI,
+- Databases: PostgreSQL, MongoDB, Redis,
+- Message Brokers: Kafka,
+- Search Engines: Elasticsearch, [typesense](https://github.com/typesense/typesense),
+- Load Balancers: Nginx,
+- Monitoring: Grafana
 
 #### DevOps:
-- CI/CD, Containerization, Cloud platforms (AWS, Google Cloud)
-- Tools: Jenkins, GitLab CI/CD, Terraform, Kubernetes, Docker
+- Continuous Integration (CI) and Continuous Deployment (CD),
+- Monitoring and alerting,
+- Scalability and reliability,
 
+**Tools:**
+- CI/CD: Jenkins, GitHub Actions, CircleCI,
+- Containerization: Docker,
+- Cloud Platforms: AWS, Google Cloud Platform,
+- Monitoring: Grafana,
+
+#### Web Scraping:
+- Understanding of HTML/CSS structure,
+- Web crawling and spidering,
+- Handling JavaScript-rendered content,
+- Parsing and extracting data from web pages,
+- Handling dynamic content,
+- Dealing with anti-scraping mechanisms,
+
+**Tools:**
+- Libraries: BeautifulSoup, Scrapy, Requests-HTML,
+- Browser Automation: Playwright, Selenium,
+- Data Extraction: XPath, CSS selectors,
+- Proxy Rotation: Bright Data, IPRoyal,
+- CAPTCHA Solving: 2Captcha,
+- 
 ## Connect
 
 <p align="center">
