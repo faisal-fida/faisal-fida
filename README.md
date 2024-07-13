@@ -6,8 +6,8 @@
 </div>
 
 
-
-### Python Development
+---
+## Python Development
 ---
 #### Tasks:
 - Backend development, Data manipulation and analysis, Unit testing
@@ -19,8 +19,8 @@
 - pytest, virtualenv, conda, [poetry](https://github.com/python-poetry/poetry), [ruff](https://github.com/astral-sh/ruff)
 - IDEs: VS Code, Jupyter Notebook, [MkDocs](https://github.com/squidfunk/mkdocs-material)
 
-
-### Machine Learning
+---
+## Machine Learning
 ---
 #### Tasks:
 - Data preprocessing, Feature engineering
@@ -32,8 +32,8 @@
 - TensorFlow Serving
 - Matplotlib, Seaborn, Plotly
 
-
-### Backend Development
+---
+## Backend Development
 ---
 #### Tasks:
 - RESTful API, Microservices, GraphQL
@@ -45,8 +45,8 @@
 - Nginx, Grafana
 
 
-
-### DevOps
+---
+## DevOps
 ---
 #### Tasks:
 - CI-CD Pipeline, Monitoring and alerting
@@ -56,8 +56,8 @@
 - Jenkins, GitHub Actions, CircleCI
 - AWS, Google Cloud Platform, Docker
 
-
-### Web Scraping
+---
+## Web Scraping
 ---
 #### Tasks:
 - Web crawling, spidering, Understanding of HTML/CSS
