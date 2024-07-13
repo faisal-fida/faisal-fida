@@ -7,9 +7,16 @@
 
 ---
 
-### Python Development
-**Tasks:** Backend development, data manipulation and analysis, multithreading and multiprocessing, unit testing, asynchronous programming, web scraping, web automation  
-**Tools:** Django, FastAPI, NumPy, Pandas, BeautifulSoup, Scrapy, Requests, Git, GitHub, virtualenv, conda, [poetry](https://github.com/python-poetry/poetry), pytest, [MkDocs](https://github.com/squidfunk/mkdocs-material), VS Code, Jupyter Notebook, [ruff](https://github.com/astral-sh/ruff), Docker, AWS Lambda
+#### Tasks:
+- Backend development, Data manipulation and analysis, Unit testing
+- Multithreading, Asynchronous and multiprocessing
+- Web scraping & automation
+
+#### Tools:
+- Django, FastAPI, Docker, AWS Lambda, Git
+- NumPy, Pandas, BeautifulSoup, Scrapy, Requests
+- pytest, virtualenv, conda, [poetry](https://github.com/python-poetry/poetry), [ruff](https://github.com/astral-sh/ruff)
+- IDEs: VS Code, Jupyter Notebook, [MkDocs](https://github.com/squidfunk/mkdocs-material)
 
 ---
 
