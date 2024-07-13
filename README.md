@@ -5,82 +5,76 @@
   <img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="Profile Views" />
 </div>
 
----
-#### Python Development:
-- Backend development,
-- Data manipulation and analysis,
-- Multithreading and multiprocessing,
-- Unit testing,
-- Asynchronous programming,
-- Web scraping,
-- Web automation,
 
-**Tools:**
-- Frameworks: Django, FastAPI,
-- Libraries: NumPy, Pandas, BeautifulSoup, Scrapy, Requests,
-- Version Control: Git, GitHub,
-- Virtual Environments: virtualenv, conda, [poetry](https://github.com/python-poetry/poetry)
-- Testing: pytest,
-- Documentation: [MkDocs](https://github.com/squidfunk/mkdocs-material),
-- IDEs: VS Code, Jupyter Notebook,
-- Code Quality: [ruff](https://github.com/astral-sh/ruff),
-- Deployment: Docker, AWS Lambda
 ---
-#### Machine Learning:
-- Data preprocessing,
-- Feature engineering,
-- Model selection and evaluation,
-- Time series analysis,
-- Reinforcement learning,
-- Model deployment and serving,
 
-**Tools:**
-- Libraries: TensorFlow, Keras, Scikit-learn,
-- Deployment: TensorFlow Serving, 
-- Visualization: Matplotlib, Seaborn, Plotly,
----
-#### Backend Development:
-- RESTful API design and implementation,
-- Microservices architecture,
-- Authentication and authorization,
-- Caching strategies,
-- WebSockets,
-- GraphQL,
+### Python Development
 
-**Tools:**
-- Frameworks: Django, FastAPI,
-- Databases: PostgreSQL, MongoDB, Redis,
-- Message Brokers: Kafka,
-- Search Engines: Elasticsearch, [typesense](https://github.com/typesense/typesense),
-- Load Balancers: Nginx,
-- Monitoring: Grafana
----
-#### DevOps:
-- Continuous Integration (CI) and Continuous Deployment (CD),
-- Monitoring and alerting,
-- Scalability and reliability,
+| **Tasks** | **Tools** |
+| --- | --- |
+| - Backend development | **Frameworks:** Django, FastAPI |
+| - Data manipulation and analysis | **Libraries:** NumPy, Pandas, BeautifulSoup, Scrapy, Requests |
+| - Multithreading and multiprocessing | **Version Control:** Git, GitHub |
+| - Unit testing | **Virtual Environments:** virtualenv, conda, [poetry](https://github.com/python-poetry/poetry) |
+| - Asynchronous programming | **Testing:** pytest |
+| - Web scraping | **Documentation:** [MkDocs](https://github.com/squidfunk/mkdocs-material) |
+| - Web automation | **IDEs:** VS Code, Jupyter Notebook |
+| | **Code Quality:** [ruff](https://github.com/astral-sh/ruff) |
+| | **Deployment:** Docker, AWS Lambda |
 
-**Tools:**
-- CI/CD: Jenkins, GitHub Actions, CircleCI,
-- Containerization: Docker,
-- Cloud Platforms: AWS, Google Cloud Platform,
-- Monitoring: Grafana,
 ---
-#### Web Scraping:
-- Understanding of HTML/CSS structure,
-- Web crawling and spidering,
-- Handling JavaScript-rendered content,
-- Parsing and extracting data from web pages,
-- Handling dynamic content,
-- Dealing with anti-scraping mechanisms,
 
-**Tools:**
-- Libraries: BeautifulSoup, Scrapy, Requests-HTML,
-- Browser Automation: Playwright, Selenium,
-- Data Extraction: XPath, CSS selectors,
-- Proxy Rotation: Bright Data, IPRoyal,
-- CAPTCHA Solving: 2Captcha,
+### Machine Learning
+
+| **Tasks** | **Tools** |
+| --- | --- |
+| - Data preprocessing | **Libraries:** TensorFlow, Keras, Scikit-learn |
+| - Feature engineering | **Deployment:** TensorFlow Serving |
+| - Model selection and evaluation | **Visualization:** Matplotlib, Seaborn, Plotly |
+| - Time series analysis |  |
+| - Reinforcement learning |  |
+| - Model deployment and serving |  |
+
 ---
+
+### Backend Development
+
+| **Tasks** | **Tools** |
+| --- | --- |
+| - RESTful API design and implementation | **Frameworks:** Django, FastAPI |
+| - Microservices architecture | **Databases:** PostgreSQL, MongoDB, Redis |
+| - Authentication and authorization | **Message Brokers:** Kafka |
+| - Caching strategies | **Search Engines:** Elasticsearch, [typesense](https://github.com/typesense/typesense) |
+| - WebSockets | **Load Balancers:** Nginx |
+| - GraphQL | **Monitoring:** Grafana |
+
+---
+
+### DevOps
+
+| **Tasks** | **Tools** |
+| --- | --- |
+| - Continuous Integration (CI) and Continuous Deployment (CD) | **CI/CD:** Jenkins, GitHub Actions, CircleCI |
+| - Monitoring and alerting | **Containerization:** Docker |
+| - Scalability and reliability | **Cloud Platforms:** AWS, Google Cloud Platform |
+| | **Monitoring:** Grafana |
+
+---
+
+### Web Scraping
+
+| **Tasks** | **Tools** |
+| --- | --- |
+| - Understanding of HTML/CSS structure | **Libraries:** BeautifulSoup, Scrapy, Requests-HTML |
+| - Web crawling and spidering | **Browser Automation:** Playwright, Selenium |
+| - Handling JavaScript-rendered content | **Data Extraction:** XPath, CSS selectors |
+| - Parsing and extracting data from web pages | **Proxy Rotation:** Bright Data, IPRoyal |
+| - Handling dynamic content | **CAPTCHA Solving:** 2Captcha |
+| - Dealing with anti-scraping mechanisms |  |
+
+---
+
+
 ## Connect
 
 <p align="center">
