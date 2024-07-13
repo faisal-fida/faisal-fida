@@ -5,72 +5,35 @@
   <img src="https://komarev.com/ghpvc/?username=faisal-fida" alt="Profile Views" />
 </div>
 
-
 ---
 
 ### Python Development
-
-| **Tasks** | **Tools** |
-| --- | --- |
-| - Backend development | **Frameworks:** Django, FastAPI |
-| - Data manipulation and analysis | **Libraries:** NumPy, Pandas, BeautifulSoup, Scrapy, Requests |
-| - Multithreading and multiprocessing | **Version Control:** Git, GitHub |
-| - Unit testing | **Virtual Environments:** virtualenv, conda, [poetry](https://github.com/python-poetry/poetry) |
-| - Asynchronous programming | **Testing:** pytest |
-| - Web scraping | **Documentation:** [MkDocs](https://github.com/squidfunk/mkdocs-material) |
-| - Web automation | **IDEs:** VS Code, Jupyter Notebook |
-| | **Code Quality:** [ruff](https://github.com/astral-sh/ruff) |
-| | **Deployment:** Docker, AWS Lambda |
+**Tasks:** Backend development, data manipulation and analysis, multithreading and multiprocessing, unit testing, asynchronous programming, web scraping, web automation  
+**Tools:** Django, FastAPI, NumPy, Pandas, BeautifulSoup, Scrapy, Requests, Git, GitHub, virtualenv, conda, [poetry](https://github.com/python-poetry/poetry), pytest, [MkDocs](https://github.com/squidfunk/mkdocs-material), VS Code, Jupyter Notebook, [ruff](https://github.com/astral-sh/ruff), Docker, AWS Lambda
 
 ---
 
 ### Machine Learning
-
-| **Tasks** | **Tools** |
-| --- | --- |
-| - Data preprocessing | **Libraries:** TensorFlow, Keras, Scikit-learn |
-| - Feature engineering | **Deployment:** TensorFlow Serving |
-| - Model selection and evaluation | **Visualization:** Matplotlib, Seaborn, Plotly |
-| - Time series analysis |  |
-| - Reinforcement learning |  |
-| - Model deployment and serving |  |
+**Tasks:** Data preprocessing, feature engineering, model selection and evaluation, time series analysis, reinforcement learning, model deployment and serving  
+**Tools:** TensorFlow, Keras, Scikit-learn, TensorFlow Serving, Matplotlib, Seaborn, Plotly
 
 ---
 
 ### Backend Development
-
-| **Tasks** | **Tools** |
-| --- | --- |
-| - RESTful API design and implementation | **Frameworks:** Django, FastAPI |
-| - Microservices architecture | **Databases:** PostgreSQL, MongoDB, Redis |
-| - Authentication and authorization | **Message Brokers:** Kafka |
-| - Caching strategies | **Search Engines:** Elasticsearch, [typesense](https://github.com/typesense/typesense) |
-| - WebSockets | **Load Balancers:** Nginx |
-| - GraphQL | **Monitoring:** Grafana |
+**Tasks:** RESTful API design and implementation, microservices architecture, authentication and authorization, caching strategies, WebSockets, GraphQL  
+**Tools:** Django, FastAPI, PostgreSQL, MongoDB, Redis, Kafka, Elasticsearch, [typesense](https://github.com/typesense/typesense), Nginx, Grafana
 
 ---
 
 ### DevOps
-
-| **Tasks** | **Tools** |
-| --- | --- |
-| - Continuous Integration (CI) and Continuous Deployment (CD) | **CI/CD:** Jenkins, GitHub Actions, CircleCI |
-| - Monitoring and alerting | **Containerization:** Docker |
-| - Scalability and reliability | **Cloud Platforms:** AWS, Google Cloud Platform |
-| | **Monitoring:** Grafana |
+**Tasks:** Continuous Integration (CI) and Continuous Deployment (CD), monitoring and alerting, scalability and reliability  
+**Tools:** Jenkins, GitHub Actions, CircleCI, Docker, AWS, Google Cloud Platform, Grafana
 
 ---
 
 ### Web Scraping
-
-| **Tasks** | **Tools** |
-| --- | --- |
-| - Understanding of HTML/CSS structure | **Libraries:** BeautifulSoup, Scrapy, Requests-HTML |
-| - Web crawling and spidering | **Browser Automation:** Playwright, Selenium |
-| - Handling JavaScript-rendered content | **Data Extraction:** XPath, CSS selectors |
-| - Parsing and extracting data from web pages | **Proxy Rotation:** Bright Data, IPRoyal |
-| - Handling dynamic content | **CAPTCHA Solving:** 2Captcha |
-| - Dealing with anti-scraping mechanisms |  |
+**Tasks:** Understanding of HTML/CSS structure, web crawling and spidering, handling JavaScript-rendered content, parsing and extracting data from web pages, handling dynamic content, dealing with anti-scraping mechanisms  
+**Tools:** BeautifulSoup, Scrapy, Requests-HTML, Playwright, Selenium, XPath, CSS selectors, Bright Data, IPRoyal, 2Captcha
 
 ---
 
