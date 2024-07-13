@@ -9,11 +9,9 @@
 
 ### Python Development
 ---
-
 #### Tasks:
 - Backend development, Data manipulation and analysis, Unit testing
 - Multithreading, Asynchronous and multiprocessing
-- Web scraping & automation
 
 #### Tools:
 - Django, FastAPI, Docker, AWS Lambda, Git
@@ -21,31 +19,54 @@
 - pytest, virtualenv, conda, [poetry](https://github.com/python-poetry/poetry), [ruff](https://github.com/astral-sh/ruff)
 - IDEs: VS Code, Jupyter Notebook, [MkDocs](https://github.com/squidfunk/mkdocs-material)
 
----
 
 ### Machine Learning
-**Tasks:** Data preprocessing, feature engineering, model selection and evaluation, time series analysis, reinforcement learning, model deployment and serving  
-**Tools:** TensorFlow, Keras, Scikit-learn, TensorFlow Serving, Matplotlib, Seaborn, Plotly
-
 ---
+#### Tasks:
+- Data preprocessing, Feature engineering
+- Model selection and evaluation
+- Model deployment and serving
+
+#### Tools:
+- TensorFlow, Keras, Scikit-learn
+- TensorFlow Serving
+- Matplotlib, Seaborn, Plotly
+
 
 ### Backend Development
-**Tasks:** RESTful API design and implementation, microservices architecture, authentication and authorization, caching strategies, WebSockets, GraphQL  
-**Tools:** Django, FastAPI, PostgreSQL, MongoDB, Redis, Kafka, Elasticsearch, [typesense](https://github.com/typesense/typesense), Nginx, Grafana
-
 ---
+#### Tasks:
+- RESTful API, Microservices, GraphQL
+- Authentication and authorization
+- WebSockets, Caching
+
+#### Tools:
+- Redis, Kafka,  Elasticsearch, [typesense](https://github.com/typesense/typesense)
+- Nginx, Grafana
+
+
 
 ### DevOps
-**Tasks:** Continuous Integration (CI) and Continuous Deployment (CD), monitoring and alerting, scalability and reliability  
-**Tools:** Jenkins, GitHub Actions, CircleCI, Docker, AWS, Google Cloud Platform, Grafana
-
 ---
+#### Tasks:
+- CI-CD Pipeline, Monitoring and alerting
+- Scalability and reliability
+
+#### Tools:
+- Jenkins, GitHub Actions, CircleCI
+- AWS, Google Cloud Platform, Docker
+
 
 ### Web Scraping
-**Tasks:** Understanding of HTML/CSS structure, web crawling and spidering, handling JavaScript-rendered content, parsing and extracting data from web pages, handling dynamic content, dealing with anti-scraping mechanisms  
-**Tools:** BeautifulSoup, Scrapy, Requests-HTML, Playwright, Selenium, XPath, CSS selectors, Bright Data, IPRoyal, 2Captcha
-
 ---
+#### Tasks:
+- Web crawling, spidering, Understanding of HTML/CSS
+- JavaScript-rendered content, anti-scraping mechanisms
+
+#### Tools:
+- BeautifulSoup, Scrapy, Requests-HTML, Playwright, Selenium, XPath, CSS selectors
+- Bright Data, IPRoyal, 2Captcha
+
 
 
 ## Connect
